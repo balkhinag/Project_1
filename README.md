@@ -1,11 +1,12 @@
 # PROJECT-1. Анализ резюме из HeadHunter
 Основной ноутбук - Project-1.ipynb
+
 Ссылка на датасеты, используемые в работе:
  - https://drive.google.com/file/d/1bhjx6TbFW_bYNeoAHflnbBwuVzyXAmLX/view?usp=sharing
  - https://drive.google.com/file/d/1KGPFOjwI7XDMbx2SfaN3w-j3eWElZg2X/view?usp=sharing
 
 В данном проекте в основном все диаграммы построены в plotly  и сохранены в папку "figures" в формате html.  Чтобы графики показывались, можно использовать nbviewer.org
-пше
+
 ## Оглавление  
 [1. Описание проекта](https://github.com/balkhinag/Project_1#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
 [2. Какой кейс решаем?](https://github.com/balkhinag/Project_1#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)  
